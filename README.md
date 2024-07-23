@@ -17,7 +17,7 @@ Welcome to the Food Ordering App! This application allows users to browse and or
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **React Icons**: Icon library for adding icons to React applications.
 - **React Toastify**: Notification library for displaying toast notifications.
-- **React Hot Toast**: Toast notification library for displaying success messages.
+- **React Hot Toast**: Toast notification library for displaying success messages..
 
 ## Getting Started
 
